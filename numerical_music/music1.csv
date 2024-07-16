@@ -1,0 +1,6 @@
+90, 44100, 3
+kick, 220, 0.5, 0, 0.01, 0, 0
+hihat, 1800, 0.1, 0.03, 0.07, 0, 0
+snare, 200, 0.7, 0.01, 0.03, 0, 0
+kick	,_	,hihat	,_	,kick	,_	,hihat	,_	,kick	,_	,hihat	,_	,kick	,_	,hihat	,_	,kick	,_	,hihat	,_	,kick	,_	,hihat	,_	,kick	,_	,hihat	,_	,kick	,_	,hihat	,_
+_		,_	,_		,_	,snare	,_	,_		,_	,_		,_	,_		,_	,snare	,_	,_		,_	,_		,_	,_		,_	,snare	,_	,_		,_	,_		,_	,_		,_	,snare	,_	,_		,_
